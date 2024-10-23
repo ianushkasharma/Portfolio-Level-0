@@ -1,16 +1,10 @@
-# Basic HTML and CSS Portfolio
-This project contains a simple portfolio website made using basic HTML and CSS. It includes an index page, hobbies page, registration form, and minimal styling.
-# Basic HTML and CSS Portfolio
-
-This project contains a simple portfolio website made using basic HTML and CSS. It includes an index page, hobbies page, registration form, and minimal styling.
+# My First HTML and CSS Portfolio
+Welcome to my **very first project** after getting hands-on with HTML and CSS! 🎉  
+This portfolio is a simple yet significant milestone, where I started my web development journey. It includes a clean landing page, a hobbies section, and a basic registration form.
 
 ## Table of Contents
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
-3. [How to View the Project](#how-to-view-the-project)
-4. [File Structure](#file-structure)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Features
 - **Index Page:** A main landing page introducing the website.
@@ -28,8 +22,3 @@ This project contains a simple portfolio website made using basic HTML and CSS. 
 ## Technologies Used
 - **HTML:** For structuring the pages.
 - **CSS:** For basic styling (like headings and background colors).
-
-## How to View the Project
-1. Clone or download this repository.
-   ```bash
-   git clone https://github.com/ianushkasharma/portfolio.git
