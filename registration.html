@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <section>
+        <h3><u> Registration Form </u></h3>
+        <form action="/action.php">
+            <input type = "text" placeholder = "Username">
+            <input type = "password" placeholder = "Password">
+            <br><br>
+            <br> <br>
+            <p><u>Feedback:</u>
+                <br>
+                Did you like my page?</p>
+        <label for="1">
+            <input type="radio" value="Yes" name="Preference" id="1">Yes
+        </label>
+
+        <label for="2">
+            <input type="radio" value="No" name="Preference" id="2">No
+        </label>
+
+        <p><u>Ratings: </u></p>
+        <label for="1">
+            <input type="checkbox" value="*" name="ratings" id="1">* 
+        </label>
+        <label for="2">
+            <input type="checkbox" value="**" name="ratings" id="2">**
+        </label>
+        <label for="3">
+            <input type="checkbox" value="***" name="ratings" id="3">*** 
+        </label>
+        <label for="4">
+            <input type="checkbox" value="****" name="ratings" id="4">**** 
+        </label>
+        <label for="5">
+            <input type="checkbox" value="*****" name="ratings" id="5">***** 
+        </label>
+
+        <br><br>
+        <p>Select you city:</p>
+        <select name="city">
+            <option value="Delhi">Delhi</option>
+            <option value="Chennai">Chennai</option>
+            <option value="Mumbai">Mumbai</option>
+            <option value="Kolkata">Kolkata</option>
+        </select>
+        <br><br>
+        <textarea name="feedback" id="1" placeholder="Feedback">Please give your valuable feedback here!</textarea>
+        
+        <br><br>
+        <input type="submit" value="Submit"> 
+    </form>    
+    </section>
+</body>
+</html>
