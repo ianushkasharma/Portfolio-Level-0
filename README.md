@@ -5,6 +5,8 @@ This portfolio is a simple yet significant milestone, where I started my web dev
 ## Table of Contents
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
+3. [Installation](#installation)
+4. [License](#license)
 
 ## Features
 - **Index Page:** A main landing page introducing the website.
@@ -22,3 +24,12 @@ This portfolio is a simple yet significant milestone, where I started my web dev
 ## Technologies Used
 - **HTML:** For structuring the pages.
 - **CSS:** For basic styling (like headings and background colors).
+
+## Installation
+To check out my first project, follow these steps:
+1. Clone or download the repository.
+   ```bash
+   git clone https://github.com/ianushkasharma/Portfolio-Level-0.git
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
